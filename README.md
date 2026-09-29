@@ -34,6 +34,10 @@ The case study covers:
 🧪 Clinical pipeline analysis  
 📚 Supporting sources
 
+## Presentation
+[View the Keytruda Strategy Presentation (PDF)] OR
+[Download the PowerPoint]
+
 ## Disclaimer
 
 This is an independent analytical case study created for educational and portfolio purposes. Forecasts, scenarios and strategic recommendations are illustrative and do not represent Merck guidance or investment advice.
